@@ -6,9 +6,3 @@ mongoose.connect('mongodb://localhost:27017/mongoosePrac',{
 })
 
 
-
-// input.save().then(()=>{
-//     console.log(input);
-// }).catch((error)=>{
-//     console.log(error);
-// })
